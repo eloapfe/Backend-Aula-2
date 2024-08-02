@@ -1,0 +1,55 @@
+*  {
+     padding: 0%;
+     margin: 0%;
+    
+}
+body{
+    width: 100%;
+    background-color: rgba(255, 208, 240, 0.962);
+    padding: 15px;
+}
+
+      
+#titulo{
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input{
+    width: 250px;
+    height: 20px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#botao{
+    width: 150px;
+    padding: 25px;
+    background-color: rgb(251, 251, 251);
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 2px;
+    border: 5px pink;
+    font-size: 16px;
+    height: 25px;
+}
+
+table{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+    margin: 50px;
+    width: 600px;
+    display: flex;
+}
+
+table thead{
+    padding: 15px;
+}
+th,
+td{
+    padding: 10px;
+    text-align: left;
+}
+th{
+    background-color: palevioletred;
+}
